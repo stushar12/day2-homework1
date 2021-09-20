@@ -1,0 +1,104 @@
+.height1 {
+    height: fit-content;
+}
+
+.height2 {
+    height: 50px;
+}
+
+.color {
+    background-color: #fbf0ea;
+}
+
+.dark {
+    font: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.font {
+    font-family: Calibri;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.buttoncolor {
+    background-color: #f1964b;
+    margin-top: 5px;
+}
+
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.color1 {
+    font-size: 60px;
+    color: #f1964b;
+}
+
+.font1 {
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.font2 {
+    font-size: 60px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+
+.font3 {
+    font-size: 60px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+.font4 {
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+    font-weight: 100px;
+}
+
+.font5 {
+    font-size: 20px;
+    margin-left: 150px;
+    /* margin-top: 20px; */
+    font-weight: 100px;
+}
+
+.buttoncolor1 {
+    background-color: #f1964b;
+    margin-top: 20px;
+
+    margin-left: 150px;
+}
+
+.image1 {
+    margin-left: 150px;
+    margin-top: 15px
+}
+
+.image2 {
+    margin-left: 20px;
+}
+
+.image3 {
+    margin-left: 50px;
+
+}
+
+.buttoncolor2 {
+    background-color: #fbf0ea;
+    margin-top: 20px;
+    color: #f1964b;
+}
+
+.para {
+    background-color: #f1964b;
+    width: 1200px;
+}
