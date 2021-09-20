@@ -1,9 +1,12 @@
 .height1 {
-    height: fit-content;
+    height: auto;
+    width: auto;
 }
 
 .height2 {
-    height: 50px;
+    height: auto;
+    width: auto;
+
 }
 
 .color {
@@ -18,7 +21,7 @@
 
 .font {
     font-family: Calibri;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
 }
 
@@ -41,7 +44,6 @@
 .font1 {
     font-size: 60px;
     margin-top: 50px;
-    margin-left: 150px;
 }
 
 .font2 {
@@ -53,21 +55,19 @@
 
 .font3 {
     font-size: 60px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
     margin-top: -30px;
 }
 
 .font4 {
     font-size: 20px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
     margin-top: 20px;
     font-weight: 100px;
 }
 
 .font5 {
     font-size: 20px;
-    margin-left: 150px;
-    /* margin-top: 20px; */
     font-weight: 100px;
 }
 
@@ -75,12 +75,11 @@
     background-color: #f1964b;
     margin-top: 20px;
 
-    margin-left: 150px;
 }
 
 .image1 {
     margin-left: 150px;
-    margin-top: 15px
+    margin-top: 30px
 }
 
 .image2 {
